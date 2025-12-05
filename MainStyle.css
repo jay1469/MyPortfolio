@@ -1,0 +1,23 @@
+.Main-Container{
+    background-color: rgba(234, 234, 145, 0.5);
+    border: 1px solid black;
+   height: 1000px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.top-navigation{
+    font-family: "Lucida Sans Typewriter";
+    float: none;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    margin-top: 0px;
+    position: fixed;
+    display: flex;
+    gap: 35px;
+}
